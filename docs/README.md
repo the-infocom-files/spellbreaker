@@ -20,12 +20,10 @@ The following sources provide further information on Spellbreaker:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Spellbreaker listed in the Infocom Fact Sheet. It also holds the source files for versions 63/850916 and 87/860904.
-
-| Release | Serial | Story File                    | Zarf Sources           | Historical Sources |
-| -------:|:------:|:-----------------------------:|:----------------------:|:------------------:|
-|      63 | 850916 | [spellbreaker-r63-s850916.z3] | [spellbreaker-r63.zip] |      [revision 63] |
-|      87 | 860904 | [spellbreaker-r87-s860904.z3] | [spellbreaker-r87.zip] |   [final revision] |
+| Release | Serial | Type | Story File                    | Obsessive Sources      | Historical Sources |
+| -------:|:------:|:----:|:-----------------------------:|:----------------------:|:------------------:|
+|      63 | 850916 |  PUB | [spellbreaker-r63-s850916.z3] | [spellbreaker-r63.zip] |      [revision 63] |
+|      87 | 860904 |  PUB | [spellbreaker-r87-s860904.z3] | [spellbreaker-r87.zip] |   [final revision] |
 
 [spellbreaker-r63-s850916.z3]: https://eblong.com/infocom/gamefiles/spellbreaker-r63-s850916.z3
 [spellbreaker-r63.zip]: https://eblong.com/infocom/sources/spellbreaker-r63.zip
